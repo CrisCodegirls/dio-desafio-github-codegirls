@@ -1,2 +1,2 @@
-# dio-desafio-github-codegirls
-Desafio de projeto sobre Git/Github
+# Desafio do projeto Git/Github-dio
+#repositorio criado para o desafio de projeto
